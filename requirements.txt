@@ -1,0 +1,12 @@
+fastapi==0.110.2
+uvicorn==0.29.0
+pydantic==1.10.15
+pandas==2.2.2
+scikit-learn==1.5.0
+networkx==3.2
+python-dotenv==1.0.1
+requests==2.32.2
+streamlit==1.35.0
+pyvis==0.3.2
+# NVIDIA GenAI SDK (placeholder)
+nvidia-genai-sdk==1.6.0
